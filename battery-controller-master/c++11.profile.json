@@ -1,0 +1,30 @@
+{
+    "GCC_ARM": {
+        "common": ["-fdiagnostics-color"],
+        "asm": [],
+        "c": [],
+        "cxx": ["-std=c++11"],
+        "ld": []
+    },
+    "ARM": {
+        "common": [],
+        "asm": [],
+        "c": [],
+        "cxx": [],
+        "ld": []
+    },
+    "uARM": {
+        "common": [],
+        "asm": [],
+        "c": [],
+        "cxx": [],
+        "ld": []
+    },
+    "IAR": {
+        "common": [],
+        "asm": [],
+        "c": [],
+        "cxx": [],
+        "ld": []
+    }
+}
